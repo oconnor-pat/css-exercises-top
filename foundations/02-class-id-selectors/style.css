@@ -1,0 +1,19 @@
+p {
+    background-color: #ffc1cc;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#theblueone {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.subclass2 {
+    font-size: 24px;
+}
+
+.thegreenone {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
